@@ -27,5 +27,5 @@ Modelo adotado como serviço adicional (índice Sfera, de propriedade intelectua
 ## Autora
 
 Nathália Paccelly — Especialista Sênior em Inteligência de Mercado, BI &amp; Comunicação Estratégica
-Menção: Indice Sfera, da emoresa de comunicação Fábrica de Ideias
+Menção: Indice Sfera, da empresa de comunicação Fábrica de Ideias
 [LinkedIn](https://linkedin.com/in/nathaliapaccelly) · [Portfólio](https://npaccelly.github.io/)
