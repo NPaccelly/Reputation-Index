@@ -8,7 +8,7 @@ Clientes precisavam de uma forma objetiva de medir e comparar a reputação de s
 
 ## Solução
 
-- Desenvolvimento de um modelo de *scoring em escala 0–10, organizado em uma **matriz de 4 quadrantes*
+- Desenvolvimento de um modelo de *scoring* em escala 0–10, organizado em uma *matriz de 4 quadrantes*
 - Cruzamento de dois eixos analíticos:
   - *Eficiência de narrativa* — atributos de destaque, formato da notícia, espaço dedicado, tipo de atendimento, mensagem-chave
   - *Atratividade de conteúdo* — Fator de Visibilidade e Fator de Valoração
@@ -16,7 +16,7 @@ Clientes precisavam de uma forma objetiva de medir e comparar a reputação de s
 
 ## Resultado
 
-Modelo adotado como serviço adicional (índice Sfera, de propriedade intelectual da empresa Fábrica de Ideias) por parte ativa da carteira de clientes, integrado a dashboard interativo e planilhas de dados individualizados.
+Modelo adotado como serviço adicional (índice proprietário de reputação, desenvolvido durante minha atuação em uma empresa de comunicação) por parte ativa da carteira de clientes, integrado a dashboard interativo e planilhas de dados individualizados.
 
 ## Tecnologias
 
@@ -26,6 +26,5 @@ Modelo adotado como serviço adicional (índice Sfera, de propriedade intelectua
 
 ## Autora
 
-Nathália Paccelly — Especialista Sênior em Inteligência de Mercado, BI &amp; Comunicação Estratégica
-Menção: Indice Sfera, da empresa de comunicação Fábrica de Ideias
-[LinkedIn](https://linkedin.com/in/nathaliapaccelly) · [Portfólio](https://npaccelly.github.io/)
+Nathália Paccelly — Especialista Sênior em Inteligência de Mercado, BI & Comunicação Estratégica
+[LinkedIn] · [Portfólio]
