@@ -16,7 +16,7 @@ Clientes precisavam de uma forma objetiva de medir e comparar a reputação de s
 
 ## Resultado
 
-Modelo adotado como serviço adicional (índice Esfera) por parte ativa da carteira de clientes, integrado a dashboard interativo e planilhas de dados individualizados.
+Modelo adotado como serviço adicional (índice Sfera, de propriedade intelectual da empresa Fábrica de Ideias) por parte ativa da carteira de clientes, integrado a dashboard interativo e planilhas de dados individualizados.
 
 ## Tecnologias
 
@@ -27,4 +27,5 @@ Modelo adotado como serviço adicional (índice Esfera) por parte ativa da carte
 ## Autora
 
 Nathália Paccelly — Especialista Sênior em Inteligência de Mercado, BI &amp; Comunicação Estratégica
+Menção: Indice Sfera, da emoresa de comunicação Fábrica de Ideias
 [LinkedIn](https://linkedin.com/in/nathaliapaccelly) · [Portfólio](https://npaccelly.github.io/)
