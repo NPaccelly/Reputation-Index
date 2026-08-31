@@ -32,5 +32,7 @@ Modelo adotado como serviço adicional (índice proprietário de reputação, de
 
 ## Autora
 
-Nathália Paccelly — Especialista Sênior em Inteligência de Mercado, BI & Comunicação Estratégica
-[LinkedIn] · [Portfólio]
+**Nathália Paccelly** — Especialista Sênior em Inteligência de Mercado, BI
+& Comunicação Estratégica
+[LinkedIn](https://linkedin.com/in/nathaliapaccelly) ·
+[Portfólio](https://github.com/NPaccelly)
