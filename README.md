@@ -2,6 +2,12 @@
 
 Case de coordenação metodológica de um modelo de scoring de reputação de marca, adotado como serviço adicional por parte ativa da carteira de clientes.
 
+## Dashboard interativo
+
+[![Ver dashboard no Power BI](https://img.shields.io/badge/Power_BI-Visualizar_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMWRiM2NmODYtNDY5NC00OGQzLTlhYzEtYjI0YzllNGQzNjYzIiwidCI6ImUxZDJhZjkzLTIzYmEtNDEzNi1hMGY3LTMxNzhmNGE4ZjcyZCJ9)
+
+> Visualização publicada em modo somente leitura (Power BI Publish to Web). Não requer login e não permite download do arquivo original.
+
 ## Contexto
 
 Clientes precisavam de uma forma objetiva de medir e comparar a reputação de suas marcas na mídia e nas redes sociais, para além de métricas soltas de menções e sentimento.
